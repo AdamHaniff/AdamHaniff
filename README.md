@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdamHaniff
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React
 - 📫 How to reach me - AdamHaniffDeveloper@Gmail.com
 
 <!---
